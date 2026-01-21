@@ -8,7 +8,7 @@ pacman -Syu --noconfirm vala pipewire-audio gst-libav gst-plugins-good gst-plugi
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
-get-debloated-pkgs --add-common --prefer-nano
+get-debloated-pkgs --add-common --prefer-nano ffmpeg-mini
 
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
