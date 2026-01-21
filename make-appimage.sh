@@ -11,6 +11,7 @@ export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}
 export ICON=/usr/share/icons/hicolor/scalable/apps/com.github.ryonakano.reco.svg
 export DESKTOP=/usr/share/applications/com.github.ryonakano.reco.desktop
 export STARTUPWMCLASS=com.github.ryonakano.reco
+export DEPLOY_GSTREAMER=1
 
 # Deploy dependencies
 quick-sharun /usr/bin/reco
