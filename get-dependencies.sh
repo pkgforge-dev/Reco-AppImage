@@ -10,7 +10,7 @@ get-debloated-pkgs --add-common --prefer-nano
 
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
-pacman -Syu --noconfirm vala pipewire-audio
+pacman -Syu --noconfirm vala pipewire-audio gst-libav
 make-aur-package live-chart
 make-aur-package ryokucha
 make-aur-package reco
