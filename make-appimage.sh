@@ -12,6 +12,7 @@ export ICON=https://raw.githubusercontent.com/ryonakano/reco/refs/heads/main/dat
 export DESKTOP=/usr/share/applications/com.github.ryonakano.reco.desktop
 export STARTUPWMCLASS=com.github.ryonakano.reco
 export DEPLOY_GSTREAMER=1
+export DEPLOY_PIPEWIRE=1
 
 # Deploy dependencies
 quick-sharun /usr/bin/reco
