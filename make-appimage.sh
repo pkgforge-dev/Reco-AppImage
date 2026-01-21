@@ -8,7 +8,7 @@ export ARCH VERSION
 export OUTPATH=./dist
 export ADD_HOOKS="self-updater.bg.hook"
 export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}|latest|*$ARCH.AppImage.zsync"
-export ICON=/usr/share/icons/hicolor/128x128/apps/com.github.ryonakano.reco.svg
+export ICON=https://raw.githubusercontent.com/ryonakano/reco/refs/heads/main/data/icons/128/com.github.ryonakano.reco.svg
 export DESKTOP=/usr/share/applications/com.github.ryonakano.reco.desktop
 export STARTUPWMCLASS=com.github.ryonakano.reco
 export DEPLOY_GSTREAMER=1
