@@ -1,3 +1,5 @@
+<div align="center">
+
 # Reco AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Reco-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Reco-AppImage/releases/latest)
@@ -8,7 +10,11 @@
   <img src="https://raw.githubusercontent.com/ryonakano/reco/refs/heads/main/data/icons/128/com.github.ryonakano.reco.svg" width="128" />
 </p>
 
-* [Upstream URL](https://github.com/ryonakano/reco)
+| Latest Stable Release | Upstream URL |
+| :---: | :---: |
+| [Click here](https://github.com/pkgforge-dev/Reco-AppImage/releases/latest) | [Click here](https://github.com/ryonakano/reco) |
+
+</div>
 
 ---
 
