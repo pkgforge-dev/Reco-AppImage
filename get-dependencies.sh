@@ -4,7 +4,7 @@ set -eu
 
 ARCH=$(uname -m)
 
-pacman -Syu --noconfirm vala pipewire-audio gst-libav gst-plugins-good gst-plugins-base
+pacman -Syu --noconfirm vala gst-libav gst-plugins-good gst-plugins-base
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
